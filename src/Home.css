@@ -1,0 +1,13 @@
+.mainDiv{
+    width:600px;
+    height:600px;
+    background: rgb(227,223,223);
+}
+.channelInp{
+    width:50%;
+}
+.channelList{
+    height:100%;
+    background: white;
+    overflow-y: auto;
+}
